@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '残阳夕暮，余辉徜徉，回望过往青春，万般无奈涌心头，不明何时四海再落人间言欢休', url: '' },
-    { title: '黎明破晓，盈辉四方，展望向往未来，万般希冀涌心头，已晓令日九州再展天穹朋聚游', url: '' }
+    { title: '残阳夕暮，余辉徜徉，回望过往青春，万般无奈涌心头，不明何时四海再落人间言欢休', url: 'https://www.myzeluo1270online.top/' },
+    { title: '黎明破晓，盈辉四方，展望向往未来，万般希冀涌心头，已晓令日九州再展天穹朋聚游', url: 'https://www.myzeluo1270online.top/' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'ZELUO1270.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '苔花如米小',
+  HEO_HERO_TITLE_2: '仍学牡丹开',
+  HEO_HERO_TITLE_3: '昃落',
+  HEO_HERO_TITLE_4: '无怨无悔',
+  HEO_HERO_TITLE_5: '我写我，无论主谓宾， 可以反复错',
+  HEO_HERO_TITLE_LINK: 'https://www.myzeluo1270online.top/',
 
   // 英雄区显示三个置顶分类
   HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
